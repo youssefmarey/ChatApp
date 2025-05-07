@@ -31,7 +31,6 @@ A real-time multi-client chat application with a modern WhatsApp-like UI built u
 ⚙️ run-server.bat        → Launches the server
 ⚙️ run-client.bat        → Launches the client(s)
 📄 README.txt            → Plain text manual
-📄 README_colored.pdf    → Colored version for academic submission
 ```
 
 ## 👥 Team
