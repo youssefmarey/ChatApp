@@ -39,6 +39,17 @@ A real-time multi-client chat application with a modern WhatsApp-like UI built u
 - **Team Leader:** Youssef Marey
 
 
-## واجهة البرنامج
+## 💬 Interface Screenshots
 
-![واجهة](./avatar.png.png)
+### 🌓 Dark Mode
+![Dark Mode](image/Dark_Mode.png)
+
+### 👥 Four Clients Login
+![Four Clients Login](image/Four_Clients_Login.png)
+
+### 🔒 Private & Public Chat
+![Private & Public Chat](image/Private_chat_and_public_chat.png)
+
+### 👋 Two Clients Left
+![Two Clients Left](image/Two_clients_left.png)
+
