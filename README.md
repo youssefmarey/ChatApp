@@ -37,3 +37,8 @@ A real-time multi-client chat application with a modern WhatsApp-like UI built u
 
 - **Made by:** Nexus Network  
 - **Team Leader:** Youssef Marey
+
+
+## واجهة البرنامج
+
+![واجهة](./avatar.png.png)
