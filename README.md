@@ -38,18 +38,36 @@ A real-time multi-client chat application with a modern WhatsApp-like UI built u
 - **Made by:** Nexus Network  
 - **Team Leader:** Youssef Marey
 
+---
 
-## 💬 Interface Screenshots
+## 📸 Interface Screenshots (Preview)
+
+### 🔐 Login Screens
+
+<p align="center">
+  <img src="image/Login.png" width="45%" />
+</p>
+
+---
 
 ### 🌓 Dark Mode
-![Dark Mode](image/Dark_Mode.png)
 
-### 👥 Four Clients Login
-![Four Clients Login](image/Four_Clients_Login.png)
+<p align="center">
+  <img src="image/Dark_Mode.png" width="70%" />
+</p>
+
+---
 
 ### 🔒 Private & Public Chat
-![Private & Public Chat](image/Private_chat_and_public_chat.png)
+
+<p align="center">
+  <img src="image/Private_chat_and_public_chat.png" width="70%" />
+</p>
+
+---
 
 ### 👋 Two Clients Left
-![Two Clients Left](image/Two_clients_left.png)
 
+<p align="center">
+  <img src="image/Two_clients_left.png" width="70%" />
+</p>
